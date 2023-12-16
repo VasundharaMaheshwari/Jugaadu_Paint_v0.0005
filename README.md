@@ -2,6 +2,15 @@
 
 Link to documentation --> https://drive.google.com/drive/folders/1ym_VDfoj9VnQ7eoTO7twXShs9fNVlvTt?usp=sharing
 
+Team Members of the Project:
+1. Vasundhara Maheshwari
+   Profile Links:
+   - https://github.com/VasundharaMaheshwari
+   - https://www.linkedin.com/in/vasundhara-m-2point0/
+2. Sujit Asari
+3. Vaishnavi Tarkar
+4. Neha Singh
+
 About:
 -----------------------------------------------------------------------------------------------------------------
 Setting off on a rewarding voyage with our recent project: Jugaadu Paint. We enthusiastically plunged into the realm of graphics.h, deepening our grasp of its intricate mechanics while simultaneously mastering essential software development techniques.
